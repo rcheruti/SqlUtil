@@ -1,0 +1,9 @@
+<sqls>
+
+    <sql id="search1">
+        <![CDATA[
+            SELECT * FROM table1
+        ]]>
+    </sql>
+
+</sqls>
